@@ -27,4 +27,4 @@ The main file to run is HousePrice.m. The remainder is as in the CPI application
 Note that the hierarchical Bayesian model is based on random draws of the 
 Gibbs sampler and results may therefore be subject to mild variations.
 
-Andreas Pick, pick@ese.eur.nl
+Andreas Pick, andreas.pick@cantab.net
