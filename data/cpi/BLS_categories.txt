@@ -1,0 +1,339 @@
+﻿99;Consumer Price Index for All Urban Consumers: 
+0;All items
+1;Food
+2;Food at home
+3;Cereals and bakery products
+4;Cereals and cereal products
+5;Flour and prepared flour mixes
+5;Breakfast cereal
+5;Rice, pasta, cornmeal
+6;Rice
+5;Bakery products
+6;Bread
+7;White bread
+7;Bread other than white
+6;Fresh biscuits, rolls, muffins
+6;Cakes, cupcakes, and cookies
+7;Cookies
+7;Fresh cakes and cupcakes
+6;Other bakery products
+7;Fresh sweetrolls, coffeecakes, doughnuts
+7;Crackers, bread, and cracker products
+7;Frozen and refrigerated bakery products, pies, tarts, turnovers
+3;Meats, poultry, fish, and eggs
+4;Meats, poultry, and fish
+5;Meats
+6;Beef and veal
+7;Uncooked ground beef
+7;Uncooked beef roasts
+7;Uncooked beef steaks
+7;Uncooked other beef and veal
+6;Pork
+7;Bacon, breakfast sausage, and related products
+8;Bacon and related products
+8;Breakfast sausage and related products
+7;Ham
+8;Ham, excluding canned
+7;Pork chops
+7;Other pork including roasts, steaks, and ribs
+6;Other meats
+7;Frankfurters
+7;Lunchmeats
+6;Poultry
+7;Chicken
+8;Fresh whole chicken
+8;Fresh and frozen chicken parts
+7;Other uncooked poultry including turkey
+6;Fish and seafood
+7;Fresh fish and seafood
+7;Processed fish and seafood
+8;Shelf stable fish and seafood
+8;Frozen fish and seafood
+5;Eggs
+3;Dairy and related products
+4;Milk
+5;Fresh whole milk
+5;Fresh milk other than whole
+4;Cheese and related products
+4;Ice cream and related products
+4;Other dairy and related products
+3;Fruits and vegetables
+4;Fresh fruits and vegetables
+5;Fresh fruits
+6;Apples
+6;Bananas
+6;Citrus fruits
+7;Oranges, including tangerines
+6;Other fresh fruits
+5;Fresh vegetables
+6;Potatoes
+6;Lettuce
+6;Tomatoes
+6;Other fresh vegetables
+5;Processed fruits and vegetables
+6;Canned fruits and vegetables
+7;Canned fruits
+7;Canned vegetables
+6;Frozen fruits and vegetables
+7;Frozen vegetables
+6;Other processed fruits and vegetables including dried
+7;Dried beans, peas, and lentils
+3;Nonalcoholic beverages and beverage materials
+4;Juices and nonalcoholic drinks
+5;Carbonated drinks
+5;Frozen noncarbonated juices and drinks
+5;Nonfrozen noncarbonated juices and drinks
+4;Beverage materials including coffee and tea
+5;Coffee
+6;Roasted coffee
+6;Instant coffee
+5;Other beverage materials including tea
+3;Other food at home
+4;Sugar and sweets
+5;Sugar and sugar substitutes
+5;Candy and chewing gum
+5;Other sweets
+4;Fats and oils
+5;Butter and margarine
+6;Butter
+6;Margarine
+5;Salad dressing
+5;Other fats and oils including peanut butter
+6;Peanut butter
+5;Other foods
+6;Soups
+6;Frozen and freeze dried prepared foods
+6;Snacks
+6;Spices, seasonings, condiments, sauces
+7;Salt and other seasonings and spices
+7;Olives, pickles, relishes
+7;Sauces and gravies
+7;Other condiments
+6;Baby food and formula
+6;Other miscellaneous foods
+7;Prepared salads
+2;Food away from home
+3;Full service meals and snacks
+3;Limited service meals and snacks
+3;Food at employee sites and schools
+4;Food at elementary and secondary schools
+3;Food from vending machines and mobile vendors
+3;Other food away from home
+1;Energy
+2;Energy commodities
+3;Fuel oil and other fuels
+4;Fuel oil
+4;Propane, kerosene, and firewood
+3;Motor fuel
+4;Gasoline (all types)
+5;Gasoline, unleaded regular
+5;Gasoline, unleaded midgrade
+5;Gasoline, unleaded premium
+4;Other motor fuels
+2;Energy services
+3;Electricity
+3;Utility (piped) gas service
+1;All items less food and energy
+2;Commodities less food and energy commodities
+3;Household furnishings and supplies
+4;Window and floor coverings and other linens
+5;Floor coverings
+5;Window coverings
+5;Other linens
+4;Furniture and bedding
+5;Bedroom furniture
+5;Living room, kitchen, and dining room furniture
+5;Other furniture
+4;Appliances
+5;Major appliances
+6;Laundry equipment
+5;Other appliances
+4;Other household equipment and furnishings
+5;Clocks, lamps, and decorator items
+5;Indoor plants and flowers
+5;Dishes and flatware
+5;Nonelectric cookware and tableware
+4;Tools, hardware, outdoor equipment and supplies
+5;Tools, hardware and supplies
+5;Outdoor equipment and supplies
+4;Housekeeping supplies
+5;Household cleaning products
+5;Household paper products
+5;Miscellaneous household products
+3;Apparel
+4;Men's and boys' apparel
+5;Men's apparel
+6;Men's suits, sport coats, and outerwear
+6;Men's underwear, nightwear, swimwear, and accessories
+6;Men's shirts and sweaters
+6;Men's pants and shorts
+5;Boys' apparel
+4;Women's and girls' apparel
+5;Women's apparel
+6;Women's outerwear
+6;Women's dresses
+6;Women's suits and separates
+6;Women's underwear, nightwear, swimwear, and accessories
+5;Girls' apparel
+4;Footwear
+5;Men's footwear
+5;Boys' and girls' footwear
+5;Women's footwear
+4;Infants' and toddlers' apparel
+4;Jewelry and watches
+5;Watches
+5;Jewelry
+3;Transportation commodities less motor fuel
+4;New vehicles
+5;New cars
+5;New trucks
+4;Used cars and trucks
+4;Motor vehicle parts and equipment
+5;Tires
+5;Vehicle accessories other than tires
+6;Vehicle parts and equipment other than tires
+6;Motor oil, coolant, and fluids
+3;Medical care commodities
+4;Medicinal drugs
+5;Prescription drugs
+5;Nonprescription drugs
+4;Medical equipment and supplies
+3;Recreation commodities
+4;Video and audio products
+5;Televisions
+5;Other video equipment
+5;Audio equipment
+5;Recorded music and music subscriptions
+4;Pets and pet products
+5;Pet food
+5;Purchase of pets, pet supplies, accessories
+4;Sporting goods
+5;Sports vehicles including bicycles
+5;Sports equipment
+4;Photographic equipment and supplies
+5;Photographic equipment
+4;Recreational reading materials
+5;Newspapers and magazines
+5;Recreational books
+4;Other recreational goods
+5;Toys
+6;Toys, games, hobbies and playground equipment
+5;Sewing machines, fabric and supplies
+5;Music instruments and accessories
+3;Education and communication commodities
+4;Educational books and supplies
+5;College textbooks
+4;Information technology commodities
+5;Computers, peripherals, and smart home assistants
+5;Computer software and accessories
+5;Telephone hardware, calculators, and other consumer information items
+6;Smartphones
+3;Alcoholic beverages
+4;Alcoholic beverages at home
+5;Beer, ale, and other malt beverages at home
+5;Distilled spirits at home
+6;Whiskey at home
+6;Distilled spirits, excluding whiskey, at home
+5;Wine at home
+4;Alcoholic beverages away from home
+5;Beer, ale, and other malt beverages away from home
+5;Wine away from home
+5;Distilled spirits away from home
+3;Other goods
+4;Tobacco and smoking products
+5;Cigarettes
+5;Tobacco products other than cigarettes
+4;Personal care products
+5;Hair, dental, shaving, and miscellaneous personal care products
+5;Cosmetics, perfume, bath, nail preparations and implements
+4;Miscellaneous personal goods
+5;Stationery, stationery supplies, gift wrap
+2;Services less energy services
+3;Shelter
+4;Rent of shelter
+5;Rent of primary residence
+5;Lodging away from home
+6;Housing at school, excluding board
+6;Other lodging away from home including hotels and motels
+5;Owners' equivalent rent of residences
+6;Owners' equivalent rent of primary residence
+5;Tenants' and household insurance
+3;Water and sewer and trash collection services
+4;Water and sewerage maintenance
+4;Garbage and trash collection
+3;Household operations
+4;Domestic services
+4;Gardening and lawncare services
+4;Moving, storage, freight expense
+4;Repair of household items
+3;Medical care services
+4;Professional services
+5;Physicians' services
+5;Dental services
+5;Eyeglasses and eye care
+5;Services by other medical professionals
+4;Hospital and related services
+5;Hospital services
+6;Inpatient hospital services
+6;Outpatient hospital services
+5;Nursing homes and adult day services
+5;Care of invalids and elderly at home
+4;Health insurance
+3;Transportation services
+4;Leased cars and trucks
+4;Car and truck rental
+4;Motor vehicle maintenance and repair
+5;Motor vehicle body work
+5;Motor vehicle maintenance and servicing
+5;Motor vehicle repair
+4;Motor vehicle insurance
+4;Motor vehicle fees
+5;State motor vehicle registration and license fees
+5;Parking and other fees
+6;Parking fees and tolls
+4;Public transportation
+5;Airline fares
+5;Other intercity transportation
+6;Ship fare
+5;Intracity transportation
+6;Intracity mass transit
+3;Recreation services
+4;Video and audio services
+5;Cable, satellite, and live streaming television service
+5;Purchase, subscription, and rental of video
+6;Video discs and other media
+6;Subscription and rental of video and video games
+4;Pet services including veterinary
+5;Pet services
+5;Veterinarian services
+4;Photographers and photo processing
+4;Other recreation services
+5;Club membership for shopping clubs, fraternal, or other organizations, or participant sports fees
+5;Admissions
+6;Admission to movies, theaters, and concerts
+6;Admission to sporting events
+5;Fees for lessons or instructions
+3;Education and communication services
+4;Tuition, other school fees, and childcare
+5;College tuition and fees
+5;Elementary and high school tuition and fees
+5;Day care and preschool
+5;Technical and business school tuition and fees
+4;Postage and delivery services
+5;Postage
+5;Delivery services
+4;Telephone services
+5;Wireless telephone services
+5;Residential telephone services
+4;Internet services and electronic information providers
+3;Other personal services
+4;Personal care services
+5;Haircuts and other personal care services
+4;Miscellaneous personal services
+5;Legal services
+5;Funeral expenses
+5;Laundry and dry cleaning services
+5;Apparel services other than laundry and dry cleaning
+5;Financial services
+6;Checking account and other bank services
+6;Tax return preparation and other accounting fees
